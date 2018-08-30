@@ -21,7 +21,7 @@ Run the application by typing:
     python src/main.py <input_file_path> <entity_id_to_be_cloned>
 
 
-#### How to run tests
+### How to run tests
 Test cases are located in tests folder.
 In order to run the test cases simply type:
 
